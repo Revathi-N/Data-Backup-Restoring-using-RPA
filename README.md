@@ -22,4 +22,4 @@ ADVANTAGES OF PROPOSED SYSTEM:
 *Boost efficiency and effectiveness of the system.
 
 PROJECT COMPLETED TILL NOW:
-Project has been completed and we are focussing on the efficiency of the system.
+Project has been completed and we are focussing on the accuracy of the system.
