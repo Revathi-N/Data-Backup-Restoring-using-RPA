@@ -1,4 +1,4 @@
-# DATA BACKUP RESTORE USING RPA
+# DATA BACKUP AND RESTORING USING RPA
 ## Team Number: 24 
 Team Members <li>K.Piraivendhan(15CSA44) - Retrieving process, Creating and backup from the Orchestrator process.</li> <li>N.Revathi (15CSA49) - Mail Automation</li> <li>R.Sreerag (15CSA57) - Storing the data files in the Orchestrator process</li> 
 
