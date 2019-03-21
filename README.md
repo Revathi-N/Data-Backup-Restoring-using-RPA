@@ -9,9 +9,21 @@ The secondary purpose of backups is to recover data from an earlier time, accord
 
 MODULE SPLITUP:
 Module 1: Mail automation    (N.Revathi)
+  The input file is received from the mail.
+  The file gets downloaded and saved in the respective folder.
+  
 Module 2: Backup process     (R.Sreerag)
+  The input data from the different files are read and written in the single sheet.
+  The data gets stored in the Orchestrator queue.
+  
 Module 3: Restoring process  (K.Piraivendhan)
+  This module takes the data from the Orchestrator queue and writes to the excel sheet.
+  If the excel sheet is unavailable, a new excel file gets created and the data are written to that excel file.
+  
 Module 4: Orchestrator connection
+  The bot gets connected to the Orchestrator using the generated machine key.
+  The backup process is done on daily basis.
+  The restoring process is done while triggering the bot.
 
 PROPOSED SYSTEM:
 In our proposed system, the data from the different sources are collected on a daily basis through mail. The bot will be trained to the process of extraction of data based on condition. The process will be idle until the admin triggers the bot using orchestrator. After the triggering factor, the files from the different sources are collected as a master file. The backup process is done for the master file.
