@@ -1,4 +1,4 @@
-# DATA_BACKUP_RESTORE_USING_RPA
+# DATA BACKUP RESTORE USING RPA
 ## Team Number: 24 
 Team Members <li>K.Piraivendhan(15CSA44) - Retrieving process, Creating and backup from the Orchestrator process.</li> <li>N.Revathi (15CSA49) - Mail Automation</li> <li>R.Sreerag (15CSA57) - Storing the data files in the Orchestrator process</li> 
 
@@ -13,7 +13,7 @@ Data backup is the process of backing up the data, refers to copying the data in
    <li>The file gets downloaded and saved in the respective folder, and if the respective folder is not available it will automatically        creates the folder and save in it.</li>
    
 ## Module 2: Backup process
-   <li>The data from the multiple number of files is  being and read and stored in a separate excel file.</li>
+   <li>The data from the multiple number of files are being read and stored in a separate excel file.</li>
    <li>Then that excel file gets stored in the Orchestrator queue for backup.</li>
    
 ## Module 3: Restoring process
