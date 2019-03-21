@@ -1,6 +1,6 @@
-#                                             DATA BACKUP AND RESTORING USING RPA
-Team Number - 24
-Team Members
+#                                                                        DATA BACKUP AND RESTORING USING RPA
+##Team Number - 24
+<li>Team Members</li>
              <li>K.Piraivendhan(15CSA44)</li>
              <li>N.Revathi     (15CSA49)</li>
              <li>R.Sreerag     (15CSA57)</li>
@@ -11,6 +11,7 @@ The secondary purpose of backups is to recover data from an earlier time, accord
 
 ## MODULE SPLITUP
 <ul> 
+  
 ## Module 1: Mail automation    (N.Revathi)
   <li>The input file is received from the mail.</li>
   <li>The file gets downloaded and saved in the respective folder.</li>
