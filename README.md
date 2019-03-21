@@ -18,7 +18,7 @@ Data backup is the process of backing up the data, refers to copying the data in
    
 ## Module 3: Restoring process
    <li>Then we backup the files from Orchestrator.</li> 
-   <li>Then using the decision flow it checks for the file, if the file is not found it will return as "file not found" orelse it will          return the backup file and it will store it in a separate excel file. </li>
+   <li>Then using the decision flow it checks for the file, if the file is not found it will return as "file not found" or else it will          return the backup file and it will store it in a separate excel file. </li>
    
 ## Module 4: Orchestrator connection
    <li>The bot gets connected to the Orchestrator using the generated machine key and Orchestrator URL.</li>
