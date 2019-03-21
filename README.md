@@ -34,6 +34,6 @@ In our proposed system, the data from the different sources are collected on a d
 After the backup process, the restoring process is executed.
 
 ## ADVANTAGES OF PROPOSED SYSTEM
-*It can help scale resources and meet the need of growing business data.
-*Boost efficiency and effectiveness of the system.
+<li>It can help scale resources and meet the need of growing business data.</li>
+<li>Boost efficiency and effectiveness of the system.</li>
 
