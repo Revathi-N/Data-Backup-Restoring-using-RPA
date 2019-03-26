@@ -33,10 +33,10 @@ After the backup process, the restoring process is executed.
 <li>It can help scale resources and meet the need of growing business data.</li>
 <li>Boost efficiency and effectiveness of the system.</li>
 
-##FUTURE ENHANCEMENTS
+## FUTURE ENHANCEMENTS
 <li>Cloud storage could be used.</li>
 <li>High level security is enhanced.</li>
 
-##PROJECT STATUS
+## PROJECT STATUS
 <li>Project is completed(100%).</li>
 
